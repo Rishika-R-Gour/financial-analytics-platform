@@ -4,8 +4,11 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B.svg)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-success.svg)]()
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B.svg)](https://financial-analytics-platform-n9edvj8l6feymn53arxoxi.streamlit.app)
 
 A comprehensive financial analytics platform providing real-time market analysis, portfolio management, risk assessment, and AI-powered insights. Built with real-time data from Yahoo Finance and powered by Google Gemini AI.
+
+**Live Application:** [https://financial-analytics-platform-n9edvj8l6feymn53arxoxi.streamlit.app](https://financial-analytics-platform-n9edvj8l6feymn53arxoxi.streamlit.app)
 
 ---
 
